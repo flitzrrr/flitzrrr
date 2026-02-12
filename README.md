@@ -57,7 +57,7 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 </td>
 <td width="33%" valign="top">
 
-#### Infra & DevOps
+#### Infra & Data
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -65,7 +65,10 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FerretDB](https://img.shields.io/badge/FerretDB-430098?style=flat-square&logo=ferretdb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![z/OS](https://img.shields.io/badge/z%2FOS_Mainframe-054ADA?style=flat-square&logo=ibm&logoColor=white)
 
