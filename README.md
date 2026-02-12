@@ -97,6 +97,7 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 <td width="50%" valign="top">
 
 **Full-Stack & Consumer Apps**
+- Microservice billing platform (5 services, React SPA, DOCX generation, E2E tests)
 - E-commerce platforms with catalog management and review tooling
 - Enterprise web apps (Next.js, SvelteKit, React, Vite)
 - Multi-platform VPN client (Apple TV, Android TV, Fire TV, Tizen, webOS)
@@ -140,6 +141,7 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 
 - **Multi-platform native development** — Building the same app across Flutter, SwiftUI, Jetpack Compose, WinUI 3, React Native, and Web to compare frameworks side-by-side
 - **TV-first product engineering** — VPN client natively built for Apple TV, Android TV, Fire TV, Samsung Tizen, and LG webOS with 10-foot UI and remote navigation
+- **Real-estate billing platform** — Microservice architecture (5 services, React SPA, FerretDB) for automated utility cost statements with DOCX generation and E2E testing
 - **E-commerce relaunch** — SvelteKit + Supabase online catalog with product data extraction, image review tooling, and Docker-based workflow
 - **Platform reliability** — Deployment orchestration, environment lifecycle, infra-as-code
 - **Reporting automation** — API usage pipelines, cost analysis, Excel/OpenXML processing
