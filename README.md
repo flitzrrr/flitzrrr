@@ -97,14 +97,14 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 <td width="50%" valign="top">
 
 **Full-Stack & Consumer Apps**
-- Microservice billing platform (5 services, React SPA, DOCX generation, E2E tests)
-- E-commerce platforms with catalog management and review tooling
-- Enterprise web apps (Next.js, SvelteKit, React, Vite)
-- Multi-platform VPN client (Apple TV, Android TV, Fire TV, Tizen, webOS)
-- Browser-terminal PoC with SSH backend
+- Microservice billing platform for automated utility cost statements and document generation
+- E-commerce platforms with catalog management and image review tooling
+- Enterprise web apps and marketing sites
+- Multi-platform VPN client for smart TVs and streaming devices
+- Browser-based terminal with remote shell access
 
 **AI & Multi-Platform**
-- Same app implemented natively across 6 platforms (Flutter, SwiftUI, Jetpack Compose, WinUI 3, React Native, Web)
+- Same app implemented natively across 6 platforms to compare frameworks side-by-side
 - Benchmark frameworks for evaluating AI coding assistants
 - Natural-language-to-command execution consoles
 - Browser extensions for LLM-friendly page extraction
@@ -139,13 +139,13 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 
 ### Current Focus
 
-- **Multi-platform native development** — Building the same app across Flutter, SwiftUI, Jetpack Compose, WinUI 3, React Native, and Web to compare frameworks side-by-side
-- **TV-first product engineering** — VPN client natively built for Apple TV, Android TV, Fire TV, Samsung Tizen, and LG webOS with 10-foot UI and remote navigation
-- **Real-estate billing platform** — Microservice architecture (5 services, React SPA, FerretDB) for automated utility cost statements with DOCX generation and E2E testing
-- **E-commerce relaunch** — SvelteKit + Supabase online catalog with product data extraction, image review tooling, and Docker-based workflow
-- **Platform reliability** — Deployment orchestration, environment lifecycle, infra-as-code
-- **Reporting automation** — API usage pipelines, cost analysis, Excel/OpenXML processing
-- **Agentic AI** — Benchmarking frameworks, guided execution consoles, LLM content generation
+- **Multi-platform native development** — Building the same app across 6 platforms to compare frameworks side-by-side
+- **TV-first product engineering** — VPN client natively designed for smart TVs and streaming devices with 10-foot UI and remote navigation
+- **Real-estate billing platform** — Microservice-based system for automated utility cost statements and document generation
+- **E-commerce relaunch** — Online catalog with product data extraction, image review tooling, and automated workflows
+- **Platform reliability** — Deployment orchestration, environment lifecycle, infrastructure automation
+- **Reporting automation** — Usage pipelines, cost analysis, document processing
+- **Agentic AI** — Benchmarking frameworks, guided execution consoles, content generation
 
 ---
 
