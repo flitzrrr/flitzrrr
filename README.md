@@ -21,26 +21,43 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### Languages & Frameworks
+#### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+#### Frameworks & UI
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### Infrastructure & DevOps
+#### Infra & DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -48,6 +65,7 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![z/OS](https://img.shields.io/badge/z%2FOS_Mainframe-054ADA?style=flat-square&logo=ibm&logoColor=white)
 
@@ -79,15 +97,15 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 <td width="50%" valign="top">
 
 **Full-Stack & Consumer Apps**
-- E-commerce platforms with catalog management
-- Enterprise web apps (Next.js, React, Vite)
+- E-commerce platforms with catalog management and review tooling
+- Enterprise web apps (Next.js, SvelteKit, React, Vite)
 - Multi-platform VPN client (Apple TV, Android TV, Fire TV, Tizen, webOS)
 - Browser-terminal PoC with SSH backend
 
-**AI & Agentic Systems**
+**AI & Multi-Platform**
+- Same app implemented natively across 6 platforms (Flutter, SwiftUI, Jetpack Compose, WinUI 3, React Native, Web)
 - Benchmark frameworks for evaluating AI coding assistants
 - Natural-language-to-command execution consoles
-- Privacy-first AI content generation
 - Browser extensions for LLM-friendly page extraction
 
 </td>
@@ -101,7 +119,7 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 <div align="center">
 
 ```
-  39 repositories  ·  4 orgs  ·  8+ languages  ·  Azure / Kubernetes / GitHub Actions
+  39 repositories  ·  4 orgs  ·  10+ languages  ·  6 app platforms  ·  Azure / Kubernetes / GitHub Actions
 ```
 
 </div>
@@ -120,11 +138,12 @@ reliable pipelines, and practical solutions that scale. Based in **Munich, Germa
 
 ### Current Focus
 
+- **Multi-platform native development** — Building the same app across Flutter, SwiftUI, Jetpack Compose, WinUI 3, React Native, and Web to compare frameworks side-by-side
+- **TV-first product engineering** — VPN client natively built for Apple TV, Android TV, Fire TV, Samsung Tizen, and LG webOS with 10-foot UI and remote navigation
+- **E-commerce relaunch** — SvelteKit + Supabase online catalog with product data extraction, image review tooling, and Docker-based workflow
 - **Platform reliability** — Deployment orchestration, environment lifecycle, infra-as-code
 - **Reporting automation** — API usage pipelines, cost analysis, Excel/OpenXML processing
-- **Agentic AI** — Benchmarking frameworks, guided execution consoles, content generation
-- **Quality engineering** — BDD test platforms, sanity suites, CI/CD hardening
-- **Consumer products** — Multi-platform VPN, web apps, document automation
+- **Agentic AI** — Benchmarking frameworks, guided execution consoles, LLM content generation
 
 ---
 
