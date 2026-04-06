@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=flitzrrr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=flitzrrr&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" width="500" />
 
 </div>
 
