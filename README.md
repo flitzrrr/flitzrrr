@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=&fontSize=1" width="100%" />
-
-<br>
-
-<h1>Martin Klein</h1>
-
-<a href="https://github.com/flitzrrr">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=380&height=30&lines=Platform+Engineering;Automation+%26+AI;Full-Stack+Development;Multi-Platform+Apps" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -18,21 +10,10 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flitzrrr)
 
-</div>
-
 <br>
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=flitzrrr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
-</td>
-<td align="center">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=flitzrrr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=flitzrrr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E" width="500" />
+
 </div>
 
 ---
@@ -71,9 +52,9 @@ Based in **Munich, Germany**.
 </td>
 <td width="33%" valign="top">
 
-**Frameworks & UI**
+**Frameworks & Runtime**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
