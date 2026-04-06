@@ -4,8 +4,10 @@
 
 <br>
 
+<h1>Martin Klein</h1>
+
 <a href="https://github.com/flitzrrr">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Martin+Klein;Platform+%C2%B7+Automation+%C2%B7+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=380&height=30&lines=Platform+Engineering;Automation+%26+AI;Full-Stack+Development;Multi-Platform+Apps" alt="Typing SVG" />
 </a>
 
 <br>
