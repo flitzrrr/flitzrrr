@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn" alt="Martin Klein — Platform Engineering, Automation, AI" width="100%" />
 
 <br>
 
+[![Website](https://img.shields.io/badge/klein.business-1f6feb?style=for-the-badge&logoColor=white)](https://klein.business)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin@klein.business)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-klein/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flitzrrr)
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=flitzrrr&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=1F6FEB&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=8B949E&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" width="500" />
 
 </div>
 
@@ -20,13 +18,12 @@
 
 ### About
 
-I build platforms, automation, and AI-powered tooling. I care about clean
-architecture, reliable pipelines, and practical solutions that scale.
+I build platforms, automation, and AI-powered tooling — clean architecture,
+reliable pipelines, and pragmatic solutions that scale. I work across the full
+stack and ship the same product natively to web, mobile, TV, and desktop.
 Based in **Munich, Germany**.
 
-```
-62 repositories  ·  5 organizations  ·  10+ languages  ·  6 app platforms
-```
+> Building platforms by day, automating everything by night.
 
 ---
 
@@ -93,7 +90,7 @@ Based in **Munich, Germany**.
 <tr>
 <td width="50%" valign="top">
 
-<h4>AI & Agent Engineering</h4>
+<h4>AI &amp; Agent Engineering</h4>
 
 - Agent orchestration frameworks and MCP servers
 - Curated skill libraries for AI coding assistants
@@ -103,7 +100,7 @@ Based in **Munich, Germany**.
 
 <h4>Platform Engineering</h4>
 
-- Multi-tenant identity and API platforms at scale
+- Multi-tenant identity and API platforms
 - Cross-environment deployment orchestration
 - OAuth2 / OIDC automation across environments
 - Reverse proxy middleware and traffic management
@@ -112,18 +109,18 @@ Based in **Munich, Germany**.
 </td>
 <td width="50%" valign="top">
 
-<h4>Full-Stack & Multi-Platform Apps</h4>
+<h4>Full-Stack &amp; Multi-Platform Apps</h4>
 
-- Enterprise web applications and e-commerce platforms
-- Native apps across 6 platforms (iOS, Android, TV, Desktop, Web, Embedded)
+- Web applications and e-commerce platforms
+- Native apps across iOS, Android, TV, desktop, and web
 - Design systems with zero-runtime CSS architectures
 - Real-time data pipelines and scheduled reporting
 - Document processing automation (DOCX, Excel, PDF)
 
-<h4>DevOps & Automation</h4>
+<h4>DevOps &amp; Automation</h4>
 
-- CI/CD pipelines with GitHub Actions and container orchestration
-- Automated QA frameworks with BDD and integration testing
+- CI/CD pipelines with GitHub Actions and containers
+- Automated QA with BDD and integration testing
 - Dataset lifecycle management and compliance tooling
 - Cloud resource inventory and environment restoration
 - Operational CLI toolkits for bulk API management
@@ -134,38 +131,38 @@ Based in **Munich, Germany**.
 
 ---
 
-### At a Glance
+### GitHub in Numbers
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
-<strong>20+</strong><br><sub>Python Services</sub>
-</td>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><br>
-<strong>10+</strong><br><sub>TS/JS Apps</sub>
-</td>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /><br>
-<strong>3</strong><br><sub>Go Services</sub>
-</td>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><br>
-<strong>2</strong><br><sub>Swift Apps</sub>
-</td>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /><br>
-<strong>1</strong><br><sub>Flutter App</sub>
-</td>
-<td align="center" width="16%">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /><br>
-<strong>5</strong><br><sub>Orgs</sub>
-</td>
-</tr>
-</table>
+<!-- Static cards generated daily by GitHub Actions from PUBLIC data only. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Martin Klein — GitHub profile summary" src="./profile-summary-card-output/default/0-profile-details.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img alt="Repositories per language" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="49%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img alt="Most committed languages" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img alt="Most productive time of day" src="./profile-summary-card-output/default/4-productive-time.svg" width="49%">
+</picture>
 
 </div>
 
@@ -173,28 +170,25 @@ Based in **Munich, Germany**.
 
 ### Current Focus
 
-<table>
-<tr>
-<td>
-
-- **Agentic AI** &mdash; Building orchestration frameworks, MCP servers, and evaluation harnesses for autonomous coding agents
-- **Multi-platform native development** &mdash; Same app, natively implemented across iOS, Android, smart TVs, and desktop
-- **Platform reliability** &mdash; Deployment orchestration, environment lifecycle, and infrastructure automation at scale
-- **Enterprise automation** &mdash; Document processing pipelines, scheduled reporting, and bulk API operations
-- **Open-source tooling** &mdash; Agent skills, web crawlers, and developer productivity tools
-
-</td>
-</tr>
-</table>
+- **Agentic AI** — Orchestration frameworks, MCP servers, and evaluation harnesses for autonomous coding agents
+- **Multi-platform native development** — Same product, natively implemented across iOS, Android, smart TVs, and desktop
+- **Platform reliability** — Deployment orchestration, environment lifecycle, and infrastructure automation
+- **Enterprise automation** — Document processing pipelines, scheduled reporting, and bulk API operations
+- **Open-source tooling** — Agent skills, web crawlers, and developer productivity tools
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flitzrrr&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="95%" />
+<!-- Contribution snake — committed to the `output` branch by GitHub Actions. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flitzrrr/flitzrrr/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flitzrrr/flitzrrr/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/flitzrrr/flitzrrr/output/github-snake.svg" width="100%">
+</picture>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="" width="100%" />
 
 </div>

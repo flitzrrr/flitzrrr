@@ -1,0 +1,36 @@
+name: Generate Profile Summary Cards
+
+# Builds stat, language and productivity cards from PUBLIC GitHub data and
+# commits them (per theme) to profile-summary-card-output/. The README
+# references the static files, so they render reliably and reveal no
+# private repository data.
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: summary-cards-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 2 # Europe/Berlin
+          AUTO_PUSH: true
