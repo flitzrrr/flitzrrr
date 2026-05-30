@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn" alt="Martin Klein — Platform Engineering, Automation, AI" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=e6edf3&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=8b949e&descAlignY=58&animation=fadeIn">
+  <img alt="Martin Klein — Platform Engineering, Automation, AI" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:58a6ff&height=200&section=header&text=Martin%20Klein&fontSize=40&fontColor=0d1117&fontAlignY=38&desc=Platform%20Engineering%20%E2%80%A2%20Automation%20%E2%80%A2%20AI&descSize=16&descColor=1f2328&descAlignY=58&animation=fadeIn" width="100%">
+</picture>
 
 <br>
 
@@ -189,6 +192,9 @@ Based in **Munich, Germany**.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:388bfd,100:58a6ff&height=100&section=footer" width="100%">
+</picture>
 
 </div>
